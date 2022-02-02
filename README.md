@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattreginaldo&count_private=true)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattreginaldo&count_private=true&range=last_year)
 
 
 <!--

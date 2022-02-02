@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattreginaldo&count_private=true&range=last_year)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattreginaldo&range=last_year&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattreginaldo&hide=php,PHP)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,5 +1,10 @@
 <h2 align="center"> Hi there, i'm Mateus 😁</h2>
 
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/mattreginaldo">LinkedIn</a> •
+  <a target="_blank" href="https://instagram.com/_mateus.rr">Instagram</a>
+</p>
+
 
 I'm a Frontend Engineer passionate about web technologies and making the web accessible to everyone.
 

@@ -29,4 +29,10 @@ When not working on a project or thinking about coding, I would most likely be w
 <br>
 
  
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40&hide=java"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40&hide=java&show_icons=true"/> </a>
+
+<br>
+
+<!-- <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattreginaldo&show_icons=true&theme=react"/> </a>  --!>
+
+

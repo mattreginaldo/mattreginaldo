@@ -26,5 +26,11 @@ When not working on a project or thinking about coding, I would most likely be w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<br>
+
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattreginaldo)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40"/> </a>
+
+<br>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo)](https://github.com/anuraghazra/github-readme-stats)

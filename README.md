@@ -29,8 +29,4 @@ When not working on a project or thinking about coding, I would most likely be w
 <br>
 
  
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40"/> </a>
-
-<br>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40&hide=java"/> </a>

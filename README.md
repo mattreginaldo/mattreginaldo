@@ -11,8 +11,6 @@
 
 ## 💡 About Me :
 
-<img align="right" src="https://github.com/FernandoNandoz/FernandoNandoz/blob/main/image/illustration2.png" width="250"/>
-
 I'm a Frontend Engineer passionate about web technologies.
 
 When not working on a project or thinking about coding, I would most likely be watching TV series, playing PC games, sight-seeing, or spending time with family and friends.
@@ -25,8 +23,10 @@ These are some of the technologies I use in my daily work, but you can check out
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,vuejs,nodejs,jest,git,styledcomponents,bootstrap,tailwind,firebase,sentry)](https://skillicons.dev)
 
 **Development status of the last few months:** 
+<br>
+
 [
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&theme=dark&layout=compact&hide=vue.js,cocoa,groovy,yaml,bash,ini,markdown,xml)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&theme=dark&layout=compact&hide=vue.js,cocoa,groovy,yaml,bash,ini,markdown,xml&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 <br>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mattreginaldo&theme=react&line_height=40&hide=java&show_icons=true"/> </a>

@@ -16,7 +16,7 @@ I'm a Frontend Engineer passionate about web technologies.
 When not working on a project or thinking about coding, I would most likely be watching TV series, playing PC games, sight-seeing, or spending time with family and friends.
 
 
-## 🔮 My Stacks
+## 🔮 My Stack
 
 These are some of the technologies I use in my daily work, but you can check out all my hard skills on my <a target="_blank" href="https://www.linkedin.com/in/mateusreginaldo/">LinkedIn</a>
 

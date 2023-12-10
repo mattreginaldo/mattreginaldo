@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-I'm a Frontend Engineer passionate about web technologies.
+I'm a Frontend Engineer passionate about web and mobile technologies.
 
 When not working on a project or thinking about coding, I would most likely be watching TV series, playing PC games, sight-seeing, or spending time with family and friends.
 

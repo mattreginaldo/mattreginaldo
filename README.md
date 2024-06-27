@@ -28,14 +28,6 @@ These are some of the technologies I use in my daily work, but you can check out
 [
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&theme=dark&layout=compact&hide=vue.js,cocoa,groovy,yaml,bash,ini,markdown,xml&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
  
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mattreginaldo" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattreginaldo&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br>
 
 ## :speech_balloon: Let's Chat  
 

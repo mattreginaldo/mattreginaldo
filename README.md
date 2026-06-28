@@ -25,8 +25,7 @@ These are some of the technologies I use in my daily work, but you can check out
 **Development status of the last few months:** 
 <br>
 
-[
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&theme=dark&layout=compact&hide=vue.js,cocoa,groovy,yaml,bash,ini,markdown,xml&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&layout=compact&theme=github_dark)](https://wakatime.com/@mattreginaldo)
  
 
 ## :speech_balloon: Let's Chat  

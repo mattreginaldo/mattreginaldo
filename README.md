@@ -25,7 +25,7 @@ These are some of the technologies I use in my daily work, but you can check out
 **Development status of the last few months:** 
 <br>
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattreginaldo&layout=compact&theme=github_dark)](https://wakatime.com/@mattreginaldo)
+![WakaTime Stats](./profile/wakatime.svg)
  
 
 ## :speech_balloon: Let's Chat  
